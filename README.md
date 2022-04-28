@@ -1,5 +1,4 @@
-# Saving-The-Captured-Images-To-The-Desktop-With-Date-And-Time-main
-# Saving-the-captured-images-to-the-desktop-with-date-and-time
+# Saving-The-Captured-Images-To-The-Desktop-With-Date-And-Time
 
 Circuit Diagram
 ![Circuit Diagram](https://user-images.githubusercontent.com/75435070/165791673-4de0b31c-38e3-4107-a7d0-78076a6db77a.png)
