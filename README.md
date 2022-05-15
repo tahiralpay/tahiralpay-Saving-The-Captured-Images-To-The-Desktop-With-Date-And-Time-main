@@ -6,6 +6,6 @@ After detecting the first motion, two different counters, motion_on and motion_o
   <img width="450" height="562" src="https://user-images.githubusercontent.com/75435070/165791673-4de0b31c-38e3-4107-a7d0-78076a6db77a.png">
 </p>
 
-#Project Photos
+# Project Photos
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/75435070/165792299-76fd5917-6293-4008-bd80-c17ea56faec6.PNG)
 ![dvdsv](https://user-images.githubusercontent.com/75435070/165792307-78ae4354-6e3e-4db1-9b93-1a212a7ace19.PNG)
